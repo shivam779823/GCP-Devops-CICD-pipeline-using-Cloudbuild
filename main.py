@@ -1,3 +1,5 @@
 def test(a):
   print(a)
-return a
+  return a
+  
+test(45)  
